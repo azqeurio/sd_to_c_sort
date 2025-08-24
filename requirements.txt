@@ -1,0 +1,9 @@
+# 이 파일은 sd_to_c_sort.py를 실행하거나 EXE로 패키징할 때 필요한
+# 파이썬 패키지 의존성을 명시합니다.
+#
+# customtkinter: 모던한 Tk 인터페이스를 제공하는 GUI 프레임워크입니다.
+# Pillow: 이미지 메타데이터를 추출하기 위한 라이브러리입니다.
+# exifread: JPEG/RAW 등에서 추가 EXIF 정보를 읽기 위한 선택적 라이브러리입니다.
+customtkinter
+Pillow
+exifread
